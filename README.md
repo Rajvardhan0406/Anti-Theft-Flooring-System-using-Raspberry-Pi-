@@ -85,8 +85,7 @@ picamera2
 
 ⚙️ Installation
 1. Clone the Repository
-bashgit clone https://github.com/your-username/anti-theft-flooring-system.git
-cd anti-theft-flooring-system
+bashgit clone https://github.com/Rajvardhan0406/Anti-Theft-Flooring-System-using-Raspberry-Pi-.git
 2. Install Dependencies
 bashpip3 install RPi.GPIO hx711 picamera2
 3. Enable Camera on Raspberry Pi
